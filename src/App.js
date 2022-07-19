@@ -6,7 +6,7 @@ import Notfoundpage from "./pages/404";
 import { Routes, Route } from "react-router-dom";
 
 function App() {
-  let loggedIn = false;
+  // let loggedIn = false;
   return (
     <div className="App">
       <Routes>
